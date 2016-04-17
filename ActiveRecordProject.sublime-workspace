@@ -1,0 +1,229 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Kim/Dropbox/Sites/ruby/activerecord-template"
+	],
+	"file_history":
+	[
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/activerecord-template/Rakefile",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/activerecord-template/config.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/activerecord-template/db/migrate/20160417083007_create_people.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/activerecord-template/models/person.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/views/index.erb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/index.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/views/layout.erb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/views/form.erb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/hello_world.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/hello_world_spec.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/webapp.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/first_script.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/numerology.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/index_day2.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/views/home.erb",
+		"/C/Users/Kim/AppData/Local/Temp/Temp1_204-week1-monday-challenge01 (1).zip/provided-code/spec/numerology_with_templates_spec.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/spec/numerology_with_templates_spec.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/views/newpage.erb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/views/time.erb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/provided-code/hello_world.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/spec/numerology_web_app_spec.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/spec/spec_helper.rb",
+		"/C/Users/Kim/AppData/Local/Temp/Temp1_204-week1-monday.zip/sample-solution/hello_world_spec.rb",
+		"/C/Users/Kim/AppData/Local/Temp/Temp1_204-week1-monday.zip/sample-solution/index.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/views/webapp.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/provided-code/hello_world_spec.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/Gemfile.lock",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/.rspec",
+		"/C/Ruby22/lib/ruby/2.2.0/rubygems/core_ext/kernel_require.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/Gemfile",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/for_rspec_spec.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/for_rspec.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ruby_challenges/greeting.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/test-socket/test_tls.rb",
+		"/C/Ruby22/rubyinstaller-master/rakefile.rb",
+		"/C/Program Files (x86)/Ampps/ampps/data/php_versions.conf",
+		"/C/Program Files (x86)/Ampps/phpMyAdmin/default_config.inc.php",
+		"/C/Program Files (x86)/Ampps/phpMyAdmin/config.inc.php",
+		"/C/Users/Kim/Dropbox/Temp/sites/phpMyAdmin/tbl_create.php",
+		"/C/Users/Kim/Dropbox/Temp/sites/phpMyAdmin/webapp.php",
+		"/C/Program Files (x86)/Ampps/phpMyAdmin-4.6.0-english/config.inc.php",
+		"/C/Program Files (x86)/Ampps/php-5.4/php.ini-development",
+		"/C/Users/Kim/Dropbox/Sites/phpinfo.php",
+		"/C/Program Files (x86)/Ampps/php-7.0/php.ini",
+		"/C/Program Files (x86)/Ampps/ampps/data/my.conf",
+		"/C/Ruby22/devKit/config.yml",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/Kim/Dropbox/Sites/ruby/test-socket/tests_broadcast.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ConcourseSync/Gemfile.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ConcourseSync/concourse_sync.rb",
+		"/C/Users/Kim/Dropbox/Code/Gemfile",
+		"/C/Users/Kim/Dropbox/Code/app.rb",
+		"/C/Users/Kim/Dropbox/Sites/ruby/ConcourseSync/concourse_finalise.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"determine",
+			"gem_original_require",
+			"ruby",
+			"error_log",
+			"extension_dir",
+			"open_base",
+			"cgi.force_re"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"get"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ActiveRecordProject.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
